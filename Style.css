@@ -15,6 +15,10 @@ ol {
     font-family: 'Edu NSW ACT Foundation', cursive;
     text-decoration: underline;
 }
+.Stick {
+    font-weight: 600;
+    text-decoration: line-through;
+}
 ul {
     color: rgb(102, 16, 16);
     font-family: 'Nanum Gothic Coding', monospace;
